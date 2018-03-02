@@ -68,7 +68,7 @@ h2 {font-size:46px; font-weight:normal;}
 #block-prjEXP #prj-helpmechoose .prj-logo   {background:#ED6461 url(../img/helpmechoose.png) no-repeat center; border:4px solid #FFFFFF;}
 #block-prjEXP #prj-navFixed .prj-title a:hover{border-bottom:3px solid white;}
 #block-prjEXP #prj-navFixed .prj-logo       {background:#9C58B6 url(../img/navFixed.png) no-repeat center; border:4px solid #FFFFFF;}
-#block-prjEXP #prj-integralSystem .prj-logo {background:#16CC70 url(../img/integralSystem.png) no-repeat center; border:4px solid #FFFFFF;}
+#block-prjEXP #prj-integralSystem .prj-logo {background:#ffffff url(../img/integralSystem.png) no-repeat center; border:4px solid #FFFFFF;}
 
 /* block-wantMore */
 #block-wantMore {width:100%; background-color:#ED6461; color:#fff;}
